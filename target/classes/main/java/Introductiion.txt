@@ -1,0 +1,13 @@
+Hello there! I'm Mohana Krishna, currently working as a Full Stack Developer at XXXXX. With 8 years of professional experience in enterprise software application development, testing, maintenance, and production support, I've gained a solid understanding of various technologies and frameworks in Finance, Healthcare, and Banking domains.
+
+As a full-stack developer, I have primarily used Java for backend development, along with frameworks like Spring and Hibernate. These tools have helped me build scalable and efficient applications while maintaining code modularity and manageability. Additionally, I have experience with Git for version control, enabling smooth collaboration with teammates.
+On the front end, I have worked extensively with React JS, a popular JavaScript library for creating user interfaces. Using React JS, I have developed dynamic and interactive components that enhance the user experience. I have also utilized HTML, CSS, and JSP to design visually appealing and responsive interfaces.
+
+Data visualization and dashboard development have been one of the areas of focus for me. I have worked with visualization libraries such as D3.js, Chart.js, and Highcharts to present complex data in a visually appealing manner. These libraries have allowed me to create interactive charts and graphs, providing valuable insights to users.
+Throughout my career, I have been involved in the complete software development life cycle, from requirements gathering to deployment. I have utilized agile methodologies and CI/CD tools like Jenkins and Bamboo to ensure efficient and timely software delivery.
+
+And to speak about infrastructure setup and deployment, I have extensive experience with Amazon Web Services (AWS). Using AWS services such as Amazon EC2, Amazon RDS, Amazon S3, and Amazon CloudFront, I have created secure and scalable hosting environments for applications.
+
+Also, troubleshooting production defects has also been an important part of my role. I possess strong problem-solving skills and attention to detail, allowing me to identify and resolve issues promptly. I have worked with log analysis to identify root causes and implement effective fixes, minimizing end-users' impact.
+
+So yeah, this in a nutshell is my 8 years of experience as a Full Stack Developer. I am passionate about my work and eager to continue growing and contributing to innovative projects. 
