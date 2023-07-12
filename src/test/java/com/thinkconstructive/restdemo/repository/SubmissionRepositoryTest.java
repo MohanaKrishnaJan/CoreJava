@@ -82,7 +82,6 @@ public class SubmissionRepositoryTest {
         SubmissionDTO result=submission.getSubmission("id-1");
         Assertions.assertEquals("JMKS",result.getSalesPersonName());
     }
-
     public static SubmissionDTO getSubmission(String date,String salesPersonName,String technology, String vendorName,String consultantName){
         SubmissionDTO dto = new SubmissionDTO();
         dto.setSubmissionDate(date);
